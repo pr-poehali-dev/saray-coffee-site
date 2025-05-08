@@ -1,7 +1,6 @@
 
-import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
 import { useState, useEffect } from "react";
+import { Separator } from "@/components/ui/separator";
 
 // Компоненты сайта
 import Navbar from "@/components/Navbar";
